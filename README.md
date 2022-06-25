@@ -24,4 +24,4 @@ Team of dedicated students working to make life easier with code.
 ### &emsp; [Git Flow](https://www.atlassian.com/agile/project-management/workflow)
 #### &emsp; &emsp; - [Best practices](https://docs.github.ncsu.edu/github-best-practices/)
 
-### [Agile](https://www.atlassian.com/agile/project-management/workflow)
+### &emsp; [Agile](https://www.atlassian.com/agile/project-management/workflow)
