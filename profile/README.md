@@ -1,4 +1,4 @@
-# .github
+# FlyOneO Principles and Values
 Team of dedicated students working to make life easier with code.
 
 ## Our Workflow:
